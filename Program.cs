@@ -15,9 +15,9 @@ namespace Week1
         {
             return (double)a / b;
         }
-        public static double Subtraction(int a, int b)
+        public static int Subtraction(int a, int b)
         {
-            return (double)a - b;
+            return a - b;
         }
         static void Main(string[] args)
         {
