@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj": {}
+    "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\C#Week1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj": {
+    "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\C#Week1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj",
+        "projectUniqueName": "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\C#Week1.csproj",
         "projectName": "C#Week1",
-        "projectPath": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\obj\\",
+        "projectPath": "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\C#Week1.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
