@@ -14,11 +14,9 @@ namespace Week1
         }
         static void Main(string[] args)
         {
-            int a;
-            int b;
-            Console.Write("Nhap a: ");
+            int a, b;
+            Console.Write("Nhap a, b: ");
             a = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Nhap b: ");
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Tong 2 so: "+Sum(a, b));
             Console.WriteLine("Thuong 2 so: "+Div(a, b));
