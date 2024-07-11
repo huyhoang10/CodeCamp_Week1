@@ -1,16 +1,19 @@
 ﻿using System;
-
 namespace Week1
 {
     class Program
     {
+        public static int Multi(int a, int b)
+        {
+            return a*b;
+        }
         public static int Sum(int a, int b)
         {
             return a + b;
         }
         public static double Div(int a, int b)
         {
-            return a / b;
+            return (double)a / b;
         }
         static void Main(string[] args)
         {
@@ -20,6 +23,7 @@ namespace Week1
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Tong 2 so: "+Sum(a, b));
             Console.WriteLine("Thuong 2 so: "+Div(a, b));
+            Console.WriteLine("Tich cua 2 so: "+Multi(a,b));
             Console.ReadKey();
         }
 
