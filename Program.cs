@@ -15,6 +15,10 @@ namespace Week1
         {
             return (double)a / b;
         }
+        public static double Subtraction(int a, int b)
+        {
+            return (double)a - b;
+        }
         static void Main(string[] args)
         {
             int a, b;
@@ -24,6 +28,7 @@ namespace Week1
             Console.WriteLine("Tong 2 so: "+Sum(a, b));
             Console.WriteLine("Thuong 2 so: "+Div(a, b));
             Console.WriteLine("Tich cua 2 so: "+Multi(a,b));
+            Console.WriteLine("Hieu cua 2 so: "+Subtraction(a,b));
             Console.ReadKey();
         }
 
