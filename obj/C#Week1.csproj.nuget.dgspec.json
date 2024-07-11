@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj": {}
+    "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj": {
+    "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj",
+        "projectUniqueName": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj",
         "projectName": "C#Week1",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj",
+        "projectPath": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\C#Week1.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\obj\\",
+        "outputPath": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\C#Week1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
