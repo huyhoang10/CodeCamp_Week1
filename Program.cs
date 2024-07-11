@@ -3,6 +3,10 @@ namespace Week1
 {
     class Program
     {
+        public static int Multi(int a, int b)
+        {
+            return a * b;
+        }
         public static int Sum(int a, int b)
         {
             return a + b;
