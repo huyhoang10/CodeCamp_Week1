@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\CodeCamp_Week1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCD95EDB-F4CA-44B3-812B-8F73F2F39326}|C#Week1.csproj|d:\\spkt\\nam ii\\summer code camp\\week1\\codecamp_week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCD95EDB-F4CA-44B3-812B-8F73F2F39326}|C#Week1.csproj|c:\\users\\admin\\source\\repos\\codecamp_week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD95EDB-F4CA-44B3-812B-8F73F2F39326}|C#Week1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD95EDB-F4CA-44B3-812B-8F73F2F39326}|C#Week1.csproj|c:\\users\\admin\\source\\repos\\codecamp_week1\\c#week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCD95EDB-F4CA-44B3-812B-8F73F2F39326}|C#Week1.csproj|solutionrelative:c#week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#Week1",
+              "DocumentMoniker": "C:\\Users\\admin\\Source\\Repos\\CodeCamp_Week1\\C#Week1.csproj",
+              "RelativeDocumentMoniker": "C#Week1.csproj",
+              "ToolTip": "C:\\Users\\admin\\Source\\Repos\\CodeCamp_Week1\\C#Week1.csproj",
+              "RelativeToolTip": "C#Week1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T12:01:19.08Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CodeCamp_Week1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SPKT\\NAM II\\SUMMER CODE CAMP\\Week1\\CodeCamp_Week1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CodeCamp_Week1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBgAAAAeAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T03:18:13.256Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
