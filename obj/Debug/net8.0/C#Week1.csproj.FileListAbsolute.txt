@@ -13,3 +13,18 @@ c:\Users\ASUS\OneDrive\Máy tính\C#Week1\obj\Debug\net8.0\refint\C#Week1.dll
 c:\Users\ASUS\OneDrive\Máy tính\C#Week1\obj\Debug\net8.0\C#Week1.pdb
 c:\Users\ASUS\OneDrive\Máy tính\C#Week1\obj\Debug\net8.0\C#Week1.genruntimeconfig.cache
 c:\Users\ASUS\OneDrive\Máy tính\C#Week1\obj\Debug\net8.0\ref\C#Week1.dll
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\bin\Debug\net8.0\C#Week1.exe
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\bin\Debug\net8.0\C#Week1.deps.json
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\bin\Debug\net8.0\C#Week1.runtimeconfig.json
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\bin\Debug\net8.0\C#Week1.dll
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\bin\Debug\net8.0\C#Week1.pdb
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.AssemblyInfoInputs.cache
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.AssemblyInfo.cs
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.csproj.CoreCompileInputs.cache
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.sourcelink.json
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.dll
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\refint\C#Week1.dll
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.pdb
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\C#Week1.genruntimeconfig.cache
+D:\SPKT\NAM II\SUMMER CODE CAMP\Week1\CodeCamp_Week1\obj\Debug\net8.0\ref\C#Week1.dll

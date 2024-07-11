@@ -8,6 +8,10 @@ namespace Week1
         {
             return a + b;
         }
+        public static double Div(int a, int b)
+        {
+            return a / b;
+        }
         static void Main(string[] args)
         {
             int a;
@@ -17,8 +21,10 @@ namespace Week1
             Console.Write("Nhap b: ");
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Tong 2 so: "+Sum(a, b));
+            Console.WriteLine("Thuong 2 so: "+Div(a, b));
             Console.ReadKey();
         }
+
     }
 
 }
